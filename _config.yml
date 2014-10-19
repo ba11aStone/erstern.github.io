@@ -4,7 +4,7 @@ email: yuanchen.gm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   備忘與分享。
   關於謝元辰的生活。
-  古典與現代，不止於技術。
+  追求古典與現代，不止於技術。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://erstern.github.io" # the base hostname & protocol for your site
 twitter_username: xyuanchen
