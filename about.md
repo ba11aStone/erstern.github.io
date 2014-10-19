@@ -1,11 +1,19 @@
 ---
 layout: page
-title: About
+title: 關於元辰
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+舊作《霜天曉角》
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+詩韻難統。
+筆下誠惶恐。
+讀史黑白顛倒，觀周隋、嘆周宋。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+當肉對酒夢。
+手無縛雞勇。
+生命在於折騰，Emacs黨，鍵盤控。
+
+
+我的微信公众平台：
+![hillofych](https://jianguoyun.com/c/tblv2/CJX8FxIg8ypRjx9FgU1UYqGRV-pyYoaaPtwOjgvFBNgE_LWHkIA/9U-ODwHeqAE/l)
