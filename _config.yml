@@ -11,4 +11,4 @@ twitter_username: xyuanchen
 github_username:  erstern
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
