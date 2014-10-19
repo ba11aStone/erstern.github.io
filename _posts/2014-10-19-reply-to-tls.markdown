@@ -4,7 +4,7 @@ title:  "Reply to [TO Legeeker Sieh]"
 date:   2014-10-19 21:34:00
 categories: jekyll update
 ---
-某人折騰大半天 **markdown** 不成功，那我就用寫下作個示範吧。
+某人折騰大半天 **markdown** 不成功，那我就寫下點什麼作個示範吧。
 
 敘述的部分我就不多說了。
 
