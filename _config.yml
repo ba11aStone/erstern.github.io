@@ -12,4 +12,4 @@ github_username:  erstern
 
 # Build settings
 markdown: rdiscount
-pygments: true
+highlighter: true
