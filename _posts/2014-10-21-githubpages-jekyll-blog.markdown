@@ -48,6 +48,6 @@ RubyGems 鏡像哪家好？gem sources -a 輸淘寶！
 
 接下來開始使用。
 
-輸入 `jekyll new blog` 可以生成一個名叫 blog 的文件夾，含有（沒有的話輸入 jekyll serve）默認的 jekyll 模板，推送到 username.github.io 這一項目的主分支即可。注意項目名稱必須是用「在 github 的 username」+「.github.io」的格式，否則無效；當然，也可以自己綁定另外的域名，但項目名稱的格式不能變。
+輸入 `jekyll new blog` 可以生成一個名叫 blog 的文件夾，含有（沒有的話輸入 `jekyll serve`）默認的 jekyll 模板，推送到 username.github.io 這一項目的主分支即可。注意項目名稱必須是用「在 github 的 username」+「.github.io」的格式，否則無效；當然，也可以自己綁定另外的域名，但項目名稱的格式不能變。
 
 關於 Jekyll 的自定義等，網上有教程，我也在學習中。暫不詳述。
