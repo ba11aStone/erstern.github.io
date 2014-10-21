@@ -34,7 +34,6 @@ Github Pages 官網的簡介是：`Websites for you and your projects.`長一點
 接下來安裝 bundler 和 jekyll，分別是 `gem install bundler` 和 `gem install jekyll`
 
 但是到這裏十有八九會出錯，除了權限的問題，還會撞牆。解決的辦法就是找牆內鏡像。第一次看見鏡像地址是 `http://ruby.taobao.org/` 的時候我還以爲是作者用網購的鏈接作例子，沒想到吧，這真的是真的，
-
 RubyGems 鏡像哪家好？gem sources -a 輸淘寶！
 
 這裏參數 -a 表示添加，-r 是 delete，-l 是把現有的 list 出來。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reply to [TO Legeeker Sieh]"
+title:  "Reply to 「TO Legeeker Sieh」"
 date:   2014-10-19 21:34:00
 categories: jekyll update
 ---
