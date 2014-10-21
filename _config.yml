@@ -11,7 +11,8 @@ twitter_username: yuanchensieh
 github_username:  erstern
 
 # Build settings
-markdown: rdiscount
+#markdown: rdiscount
+markdown: kramdown
 highlighter: true
 
 # 開啓分頁功能
