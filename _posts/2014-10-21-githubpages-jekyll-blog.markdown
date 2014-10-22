@@ -3,6 +3,7 @@ layout: post
 title:  "使用「Github Pages」和「Jekyll」搭建 Blog 的過程及所遇到的問題"
 date:   2014-10-21
 categories: jekyll update
+tags: Github Jekyll
 ---
 上篇是應邀對二廣的日誌文章作出評論，這篇敘述一下搭建的過程，安裝時的問題和經驗，既是分享，也是備忘。
 
