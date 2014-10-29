@@ -16,4 +16,4 @@ permalink: /about/
 
 
 我的微信公众平台：
-![hillofych](https://jianguoyun.com/c/tblv2/CJX8FxIg8ypRjx9FgU1UYqGRV-pyYoaaPtwOjgvFBNgE_LWHkIA/9U-ODwHeqAE/l)
+![hillofych](https://jianguoyun.com/c/tblv2/CIX-FxIg8ypRjx9FgU1UYqGRV-pyYoaaPtwOjgvFBNgE_LWHkIA/eEG0OlPkdm8/l)
