@@ -16,4 +16,4 @@ permalink: /about/
 
 
 我的微信公众平台：
-![hillofych](http://img0.ph.126.net/5fvt-Al1Mu2Zq633wzr2oA==/54887620476083829.jpg)
+![hillofych](https://mmbiz.qlogo.cn/mmbiz/YhrvYGbj8X3sdN9jRUdXicDx0yq3FjyJ2tmCZh0Vo0ZqViavnb4WiajkJIsQeFoX77PiamhCoGlkmvZia0ib8RrthJkA/0)
