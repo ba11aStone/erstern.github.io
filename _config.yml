@@ -14,7 +14,7 @@ github_username:  erstern
 #markdown: rdiscount
 markdown: kramdown
 markdown_ext: markdown,mkd,mkdn,md
-highlighter: false
+highlighter: pygments
 
 # 開啓分頁功能
 paginate: 5
